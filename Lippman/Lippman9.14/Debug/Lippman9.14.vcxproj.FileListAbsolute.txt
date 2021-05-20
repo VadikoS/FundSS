@@ -1,2 +1,0 @@
-C:\Users\user\source\repos\Lippman9.14\Debug\Lippman9.14.exe
-C:\Users\user\source\repos\Lippman9.14\Debug\Lippman9.14.pdb
