@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\user\source\repos\Lippman10.17\Source.cpp(35,7): error C2039: "stable_sort": не является членом "std".
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : см. объявление "std"
-C:\Users\user\source\repos\Lippman10.17\Source.cpp(35,18): error C3861: stable_sort: идентификатор не найден
