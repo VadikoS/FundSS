@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Lippman10.31\Source.cpp(18,2): error C3861: sort: идентификатор не найден
+C:\Users\user\source\repos\Lippman10.31\Source.cpp(21,17): error C2039: "unique": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\iostream(19): message : см. объявление "std"
+C:\Users\user\source\repos\Lippman10.31\Source.cpp(21,23): error C3861: unique: идентификатор не найден
